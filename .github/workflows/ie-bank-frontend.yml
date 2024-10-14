@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
 
 env:
-  FRONTEND_WEBAPP_DEV: sperilla1-fe-dev
-  FRONTEND_WEBAPP_UAT: sperilla1-fe-uat
+  FRONTEND_WEBAPP_DEV: sperilla3-fe-dev
+  FRONTEND_WEBAPP_UAT: sperilla3-fe-uat
 
 jobs:
   build-dev:
